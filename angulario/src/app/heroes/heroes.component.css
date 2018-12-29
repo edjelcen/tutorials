@@ -1,0 +1,11 @@
+ul.heroes > li {
+  border-radius: 5px;
+  background-color: lightgray;
+  text-align: left;
+  width: 200px;
+}
+
+div {
+    width: 250px;
+    margin-right: 400px;
+}
